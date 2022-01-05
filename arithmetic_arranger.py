@@ -123,16 +123,3 @@ def arithmetic_arranger (*args):
         imp= ''.join(final)
 
     return imp
-
-print(arithmetic_arranger(['32 - 698', '1 - 3801', '45 + 43', '123 + 49', '988 + 40'], True))
-
-
-
-
-'''
-b=('  3801      123\n'
-        '-    2    +  49\n'
-        '------    -----')
-print(len(a)) 
-print(len(b))   
-'''
